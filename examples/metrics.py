@@ -1,6 +1,4 @@
-import prometheus_client
 import prometheus_udp_gateway
-import logging
 
 udp_registry = prometheus_udp_gateway.UDPRegistry(host='127.0.0.1', port=8888)
 
