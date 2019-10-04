@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/anegramotnov/prometheus_udp_gateway.svg?branch=master)](https://travis-ci.org/anegramotnov/prometheus_udp_gateway)
+
 # WIP: Prometheus UDP Gateway
 
 Prometheus-шлюз для агрегации метрик по UDP и клиентская библиотека для отправки
