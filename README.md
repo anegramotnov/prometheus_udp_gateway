@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/anegramotnov/prometheus_udp_gateway.svg?branch=master)](https://travis-ci.org/anegramotnov/prometheus_udp_gateway)
+[![codecov](https://codecov.io/gh/anegramotnov/prometheus_udp_gateway/branch/master/graph/badge.svg)](https://codecov.io/gh/anegramotnov/prometheus_udp_gateway)
 
 # WIP: Prometheus UDP Gateway
 
