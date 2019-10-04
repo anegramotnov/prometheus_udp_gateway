@@ -7,7 +7,7 @@ install:
     - python setup.py install
 
 script:
-    - python -m pytest test_prometheus_udp_gateway.py --cov=prometheus_udp_gateway.py --cov-report=term
+    - python -m pytest tests_prometheus_udp_gateway.py --cov=prometheus_udp_gateway.py --cov-report=term
 
 after_success:
     - codecov
