@@ -3,3 +3,5 @@ Twisted==19.7.0
 jsonschema==3.0.2
 pytest==4.6.5
 mock==3.0.5
+pytest-cov==2.7.1
+codecov==2.0.15
