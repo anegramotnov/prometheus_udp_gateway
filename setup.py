@@ -13,7 +13,7 @@ setup(
     ],
     install_requires=[
         'prometheus-client==0.7.1',
-        'Twisted==19.7.0',
+        'Twisted==22.4.0',
         'jsonschema==3.0.2'
     ],
 )
