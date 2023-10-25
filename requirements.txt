@@ -1,5 +1,5 @@
 prometheus-client==0.7.1
-Twisted==19.7.0
+Twisted==23.8.0
 jsonschema==3.0.2
 pytest==4.6.5
 mock==3.0.5
